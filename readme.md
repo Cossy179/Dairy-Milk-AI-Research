@@ -100,3 +100,9 @@ pip install pandas numpy scikit-learn seaborn matplotlib imbalanced-learn shap
 - **Time-Series Analysis**: If time-based data is available, perform time-series analysis to observe trends in milk quality over time.
 - **Advanced models**: Experiment with more complex models like **XGBoost** or **LightGBM** for improved performance.
 - **Expand feature engineering**: Add more domain-specific features to enhance model accuracy and interpretability.
+
+## License
+
+This project is licensed under the **Creative Commons Attribution-NoDerivatives 4.0 International** license. You are free to share and redistribute the material in any medium or format, but you may not make changes to the content. Full license terms can be found in the LICENSE file.
+
+For more information, visit [https://creativecommons.org/licenses/by-nd/4.0/](https://creativecommons.org/licenses/by-nd/4.0/).
